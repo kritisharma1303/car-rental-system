@@ -1,0 +1,8 @@
+CAR RENTAL SYSTEM IN C++.
+
+
+-LOGIN DETAILS-
+
+PASSWORD: OTP generated is the password.
+
+
